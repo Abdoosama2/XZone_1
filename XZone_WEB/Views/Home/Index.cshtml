@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+  
+    <a class="btn btn-secondary" asp-action="Create" asp-controller="Game">
+        <i class="bi bi-patch-plus">Add Game</i> </a>
+</div>
+
+
+<div class="text-center">
+    
+    <a class="btn btn-danger" asp-action="Delete" asp-route-id="Id" asp-controller="Game">
+
+        <i class="bi bi-trash"></i>Delete Game</>
+    </a>
+</div>

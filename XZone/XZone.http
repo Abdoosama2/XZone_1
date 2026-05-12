@@ -1,0 +1,6 @@
+@XZone_HostAddress = http://localhost:5263
+
+GET {{XZone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

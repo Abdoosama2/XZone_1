@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11709.299
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XZone", "XZone\XZone.csproj", "{144F74B6-E400-4BC1-ACF1-7E668A113A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144F74B6-E400-4BC1-ACF1-7E668A113A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144F74B6-E400-4BC1-ACF1-7E668A113A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144F74B6-E400-4BC1-ACF1-7E668A113A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144F74B6-E400-4BC1-ACF1-7E668A113A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90DBBEF-6A54-4FB6-84FF-C34BF3E3A317}
+	EndGlobalSection
+EndGlobal
